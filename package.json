@@ -1,0 +1,33 @@
+{
+  "name": "git-blame-stats",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Analyze git blame to show code ownership — who wrote what percentage of your codebase",
+  "bin": {
+    "git-blame-stats": "./index.js",
+    "gbs": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "git",
+    "blame",
+    "ownership",
+    "statistics"
+  ],
+  "license": "MIT",
+  "author": "NickCirv",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/git-blame-stats.git"
+  },
+  "homepage": "https://github.com/NickCirv/git-blame-stats#readme",
+  "bugs": {
+    "url": "https://github.com/NickCirv/git-blame-stats/issues"
+  }
+}
