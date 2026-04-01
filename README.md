@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # git-blame-stats
 
 Zero-dependency CLI tool that analyzes `git blame` to show code ownership — who wrote what percentage of your codebase, by author, file, directory, and language.
